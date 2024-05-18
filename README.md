@@ -34,7 +34,7 @@ After creating a Replicate account, you can access your API token from [this pag
 3. **Add your API token to your secrets file**\
 Create a `.streamlit` folder with a `secrets.toml` file inside.
    ```bash
-   mkdir .streamlit
+streamlit   mkdir .streamlit
    cd .streamlit
    touch secrets.toml
    ```
